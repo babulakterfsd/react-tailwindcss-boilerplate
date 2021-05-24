@@ -2,14 +2,14 @@
 
 ## Run the development server:
 
-### `git clone https://github.com/faysalchowdhury99/react-tailwindcss-boilerplate.git`
+`git clone https://github.com/faysalchowdhury99/react-tailwindcss-boilerplate.git`
 
-### `cd react-tailwindcss-boilerplate`
+`cd react-tailwindcss-boilerplate`
 
-### `yarns`
+`yarns`
 
-### `yarn start`
+`yarn start`
 
 ## Build
 
-### `yarn build`
+`yarn build`
