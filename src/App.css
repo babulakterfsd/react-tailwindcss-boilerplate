@@ -1,0 +1,15 @@
+body {
+  @apply bg-gray-800;
+}
+
+.heading {
+  @apply font-bold text-5xl text-center mt-20 leading-normal text-white;
+}
+
+.text {
+  @apply text-center text-lg text-white font-semibold my-4;
+}
+
+.highlight {
+  @apply text-yellow-400;
+}
