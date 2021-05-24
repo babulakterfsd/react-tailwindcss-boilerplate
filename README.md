@@ -1,9 +1,9 @@
 # A Quick React and Tailwind CSS Starter.
 
-## Current Version <br/>
+## Current Version: <br/>
 
-`React-17.0.2` <br/>
-`Tailwind-2.1.2`
+`React- 17.0.2` <br/>
+`Tailwind CSS- 2.1.2`
 
 ## Run the development server:
 
@@ -15,6 +15,6 @@
 
 `4. yarn start`
 
-## Build
+## Build:
 
 `yarn build`
