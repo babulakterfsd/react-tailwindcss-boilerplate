@@ -1,14 +1,19 @@
 # A Quick React and Tailwind CSS Starter.
 
+## Current Version <br/>
+
+`React-17.0.2` <br/>
+`Tailwind-2.1.2`
+
 ## Run the development server:
 
-`git clone https://github.com/faysalchowdhury99/react-tailwindcss-boilerplate.git`
+`1. git clone https://github.com/faysalchowdhury99/react-tailwindcss-boilerplate.git`
 
-`cd react-tailwindcss-boilerplate`
+`2. cd react-tailwindcss-boilerplate`
 
-`yarn`
+`3. yarn`
 
-`yarn start`
+`4. yarn start`
 
 ## Build
 
