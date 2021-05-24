@@ -6,7 +6,7 @@
 
 `cd react-tailwindcss-boilerplate`
 
-`yarns`
+`yarn`
 
 `yarn start`
 
