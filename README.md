@@ -3,8 +3,8 @@
 ## Current Version: <br/>
 
 `React- 17.0.2` <br/>
-`ESLint- 7.2.0` <br/>
-`Tailwind CSS- 2.1.2`
+`Tailwind CSS- 2.1.2` <br/>
+`ESLint- 7.2.0`
 
 ## Run the development server:
 
